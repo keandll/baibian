@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+#                          我的百变女友~~~
 
-You can use the [editor on GitHub](https://github.com/keandll/baibian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 第一梯队是正常的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 正常的她~~~
 
-### Markdown
+<img src="https://q.130014.xyz/2021/08/17/715DDD9414B3BD9E962868EF38D37A26.jpg" style="zoom: 33%;" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 她慢慢不再低调 开始进化
 
-```markdown
-Syntax highlighted code block
+### 淡淡的小黄毛~~~
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://q.130014.xyz/2021/08/17/9E6E46CF957B88DFAE7C08D8C8DB8AEE.jpg" style="zoom:25%;" />
 
-- Bulleted
-- List
+### 进化之路 是漫长的 绯红色
 
-1. Numbered
-2. List
+### 数码进化~~~
 
-**Bold** and _Italic_ and `Code` text
+<img src="https://q.130014.xyz/2021/08/17/703DC1F26A30A6AA8797B10505263DA6.jpg" style="zoom: 25%;" />
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 最后的进化 不败的神话
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keandll/baibian/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 神圣天使兽~~~
 
-### Support or Contact
+<img src="https://q.130014.xyz/2021/08/17/8F37666C2A1B9F0460ECD9D8788F92F5.jpg" style="zoom:33%;" />
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 真是个可爱的家伙~~~
